@@ -399,7 +399,6 @@ PRODUCT_PACKAGES += \
     libqmi_encdec \
     libqmiservices \
     libsoc_helper \
-    libswvdec \
     libthermalclient \
     libvpphvx \
     libvppimmotion \
@@ -411,20 +410,15 @@ PRODUCT_PACKAGES += \
     sound_trigger.primary.sm6150 \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     libFileMux_proprietary \
-    libMpeg4SwEncoder \
     libOmxAacDec \
     libOmxAlacDec \
-    libOmxAlacDecSw \
     libOmxAmrDec \
     libOmxAmrwbplusDec \
     libOmxApeDec \
-    libOmxApeDecSw \
     libOmxDsdDec \
     libOmxEvrcDec \
     libOmxG711Dec \
     libOmxQcelp13Dec \
-    libOmxSwVdec \
-    libOmxSwVencMpeg4 \
     libOmxVideoDSMode \
     libOmxVpp \
     libOmxWmaDec \
